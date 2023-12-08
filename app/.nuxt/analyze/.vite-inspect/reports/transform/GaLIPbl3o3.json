@@ -1,0 +1,17 @@
+{
+  "resolvedId": "virtual:nuxt:/home/johnlivingprooff/learning_fast_api_web_frameworks/app/.nuxt/css.mjs",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1702044668895,
+      "end": 1702044668895
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1702044668895,
+      "end": 1702044668895,
+      "order": "normal"
+    }
+  ]
+}

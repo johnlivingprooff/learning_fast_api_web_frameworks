@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "description": "learning something, will find out what it is ^_^",
   "main": "index.js",
+  "scripts": {
+    "start": "nuxi start"
+  },
   "repository": "https://github.com/johnlivingprooff/learning_fast_api_web_frameworks",
   "author": "johnlivingprooff",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "nuxt": "^3.8.2"
+  }
 }
