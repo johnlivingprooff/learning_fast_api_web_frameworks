@@ -4,13 +4,15 @@
   "description": "learning something, will find out what it is ^_^",
   "main": "index.js",
   "scripts": {
-    "start": "nuxi start"
+    "start": "nuxi start | nuxi dev"
   },
   "repository": "https://github.com/johnlivingprooff/learning_fast_api_web_frameworks",
   "author": "johnlivingprooff",
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/vuetify": "^1.12.3",
     "nuxt": "^3.8.2"
   }
 }
